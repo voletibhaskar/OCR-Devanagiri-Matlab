@@ -1,17 +1,6 @@
 %{
 Optical Character Recognition in MATLAB
-using Neural Network
-
-by Saurav Tomar
-(@sauravtom)
- 
-<
-Source Code released under [MIT License.](http://choosealicense.com/licenses/mit/) 
-
-Source Code url: http://github.com/sauravtom/OCR
->
-
-
+using Neural Network 
 
 %}
 
